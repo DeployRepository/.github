@@ -63,9 +63,16 @@ jobs:
 ```
 Check more details [hire](https://github.com/DeployRepository/zero-downtime-deployment)
 
-## Support Us
+## This GitHub Action Is Sponsorware 💰💰💰
+Originally, this github action was only available to my sponsors on GitHub Sponsors until I reached 100 sponsors.
 
-Your support helps us continue to develop and maintain high-quality deployment tools. Consider sponsoring us on GitHub Sponsors:
+<!-- Now that we've reached the goal, the github action is fully open source. -->
+
+Enjoy, and thanks for the support! ❤️ [Become a sponsor](https://github.com/sponsors/DeployRepository) 
+
+Learn more about Sponsorware at [github.com/sponsorware/docs](https://github.com/sponsorware/docs) 💰.
+
+Your support helps us continue to develop and maintain high-quality deployment tools. Consider sponsoring us on [GitHub Sponsors](https://github.com/sponsors/DeployRepository):
 
 - **$2 a month: Student** - Access to DeployRepository/zero-downtime-deployment with unlimited projects, deployments, and team members.
 - **$5 a month: The Individual** - Access to DeployRepository/zero-downtime-deployment with unlimited projects, deployments, and team members.
