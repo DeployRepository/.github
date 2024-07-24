@@ -61,7 +61,7 @@ jobs:
               cd $THIS_RELEASE_PATH
               php artisan optimize
 ```
-Check more details [DeployRepository/zero-downtime-deployment](hire)
+Check more details [https://github.com/DeployRepository/zero-downtime-deployment](hire)
 
 ## Support Us
 
