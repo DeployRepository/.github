@@ -74,7 +74,7 @@ Learn more about Sponsorware at [github.com/sponsorware/docs](https://github.com
 
 Your support helps us continue to develop and maintain high-quality deployment tools. Consider sponsoring us on [GitHub Sponsors](https://github.com/sponsors/DeployRepository):
 
-- **$2 a month: Student** - Access to DeployRepository/zero-downtime-deployment with unlimited projects, deployments, and team members.
+- **$1 a month: Student** - Access to DeployRepository/zero-downtime-deployment with unlimited projects, deployments, and team members.
 - **$5 a month: The Individual** - Access to DeployRepository/zero-downtime-deployment with unlimited projects, deployments, and team members.
 - **$10 a month: The Generous Individual** - A higher contribution with the same access.
 - **$25 a month: Small Business** - Ideal for small businesses.
