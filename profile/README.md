@@ -48,7 +48,7 @@ jobs:
           target: '/home/www/test.com'
           sha: ${{ github.sha }}
           github_token: ${{ secrets.GH_TOKEN }}
-          env_file: ${{ vars.ENV_FILE }}
+          env_file: ${{ secrets.ENV_FILE }}
           run_script_after_download: |
               cd $THIS_RELEASE_PATH
               composer install --prefer-dist
